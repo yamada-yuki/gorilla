@@ -5,7 +5,7 @@
 
   .top-wrapper{
     padding-top:100px;
-    padding-bottom:100px;
+    padding-bottom:90px;
   }
 
   .top-wrapper h1{
@@ -18,11 +18,11 @@
   }
 
   .message h1{
-    font-size:25px;
+    font-size:40px;
   }
 
   .column p{
-    font-size:4px;
+    font-size:15px;
   }
 
   .column h3{
